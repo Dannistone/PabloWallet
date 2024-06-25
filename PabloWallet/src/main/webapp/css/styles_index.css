@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+/* styles_index.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://www.apple.com/v/wallet/g/images/meta/apple_wallet__0zf6h6pg0pum_og.png?202402271306");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px; /* Ajusta el tamaño según sea necesario */
+}
+
+.container {
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
